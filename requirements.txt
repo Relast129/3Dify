@@ -1,0 +1,8 @@
+numpy
+opencv-python
+torch
+Pillow
+trimesh
+rembg
+transformers
+onnxruntime
