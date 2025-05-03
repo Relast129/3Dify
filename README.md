@@ -1,3 +1,6 @@
+ 3Dify
+------
+
 Photo to 3D Model Converter 🖼️➡️📦
 This project converts a 2D photo (with a single object like a chair, toy, or car) into a simple 3D model (.obj or .stl), with automatic background removal and depth map estimation using AI.
 
