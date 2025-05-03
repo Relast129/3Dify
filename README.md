@@ -2,9 +2,12 @@ Photo to 3D Model Converter 🖼️➡️📦
 This project converts a 2D photo (with a single object like a chair, toy, or car) into a simple 3D model (.obj or .stl), with automatic background removal and depth map estimation using AI.
 
 
-![Screenshot 2025-05-03 153505](https://github.com/user-attachments/assets/85363afe-39de-4431-955c-46b4d9a18c83)
-![Screenshot 2025-05-03 153454](https://github.com/user-attachments/assets/c987d553-9999-41b6-989c-0fc63509f133)
 ![Screenshot 2025-05-03 153445](https://github.com/user-attachments/assets/ca07df47-f4e6-49ad-bedf-9324035d5c8e)
+
+![Screenshot 2025-05-03 153454](https://github.com/user-attachments/assets/c987d553-9999-41b6-989c-0fc63509f133)
+
+![Screenshot 2025-05-03 153505](https://github.com/user-attachments/assets/85363afe-39de-4431-955c-46b4d9a18c83)
+
 ![Screenshot 2025-05-03 153532](https://github.com/user-attachments/assets/2bb40edd-7a27-4908-85d4-382ad271e81c)
 
 
