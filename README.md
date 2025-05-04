@@ -37,6 +37,7 @@ Output📦
 
 
 📦 Libraries Used
+    
     ⇛ numpy – Numerical operations
     
     ⇛ opencv-python – Saving images
