@@ -14,8 +14,8 @@ This project converts a 2D photo (with a single object like a chair, toy, or car
 ![Screenshot 2025-05-03 153532](https://github.com/user-attachments/assets/2bb40edd-7a27-4908-85d4-382ad271e81c)
 
 
-
-    🚀 Steps to Run
+   🚀 Steps to Run
+   
     1) Install dependencies
         Make sure you have Python installed, then install all required libraries with:
             ⇨ pip install -r requirements.txt
